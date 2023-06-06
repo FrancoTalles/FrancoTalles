@@ -19,7 +19,7 @@
   <ul>
     <li>👷‍♂️  I’m currently working on <a href="https://github.com/FrancoTalles/lineup-front" target="_blank">lineup</a>, a site about valorant tips and information!     </li>
     <li>📚  I’m currently learning <b>docker, next and tailwind!</b></li>
-    <li>🛩️  <b>I like play games like valorant, hang out with my friends and travel.</b></li>
+    <li>🛩️  <b>I like play games like valorant, watch animes, hang out with my friends and travel.</b></li>
   </ul>
 </div>
 
