@@ -11,7 +11,7 @@
 
 <br>
 
-<p align="justify">I am a software developer from Brazil specializing in JavaScript, TypeScript, React, and Node.js. With a strong curiosity and passion for technology, I am constantly studying to learn new advancements in the field. I have an extensive portfolio, comprising over 20 projects that showcase my skills and expertise. My dedication to staying up-to-date with emerging technologies enables me to deliver innovative and efficient solutions. I thrive in challenging environments and enjoy collaborating with teams to tackle complex problems. With my knowledge and experience, I strive to make a meaningful impact in the software development industry.</p>
+<p align="justify">I am a software developer from Brazil specializing in JavaScript, TypeScript, React, and Node.js. With a strong curiosity and passion for technology, I am constantly studying to learn new technologies and skills. I have an extensive portfolio, comprising over 20 projects that showcase my skills and expertise. My dedication to staying up-to-date with emerging technologies enables me to deliver innovative and efficient solutions. I thrive in challenging environments and enjoy collaborating with teams to tackle complex problems. With my knowledge and experience, I strive to make a meaningful impact in the software development industry.</p>
 
 <br>
 
